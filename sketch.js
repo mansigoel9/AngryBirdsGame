@@ -1,3 +1,5 @@
+//This is a Angry Birds Game written in JavaScript using Matter.js
+
 const Engine = Matter.Engine;
 const World= Matter.World;
 const Bodies = Matter.Bodies;
