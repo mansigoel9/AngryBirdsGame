@@ -1,4 +1,5 @@
 //This is a Angry Birds Game written in JavaScript using Matter.js
+//Game by Mansi Goel
 
 const Engine = Matter.Engine;
 const World= Matter.World;
